@@ -17,9 +17,6 @@
    <remote name="cumos"
            fetch="https://github.com/cumOS"
 	   clone-depth="1" />
-   <remote name="chk-bcr"
-           fetch="https://github.com/Chaitanyakm"
-	   clone-depth="1" />
    <remote name="mayuresh-sources"
            fetch="https://github.com/mayuresh-sources"
 	   clone-depth="1" />
