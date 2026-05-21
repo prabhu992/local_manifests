@@ -32,9 +32,6 @@
  <!-- Common Xiaomi Hardware Tree -->
  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="linag" revision="lineage-23.2" />
 
- <!-- BCR -->
- <project path="vendor/bcr" name="vendor_bcr" remote="chk-bcr" revision="main" />
-
  <!-- Vendor -->
  <project path="vendor/xiaomi/stone" name="vendor_xiaomi_stone" remote="mayuresh" revision="16.2" />
 
