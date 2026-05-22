@@ -39,7 +39,7 @@
  <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="mayuresh-sources" revision="v4a" />
 
  <!-- Dolby -->
- <project path="hardware/dolby" name="hardware_dolby" remote="mayuresh-sources" revision="sony-1.0" />
+ <project path="hardware/dolby" name="hardware_dolby" remote="mayuresh-sources" revision="XiaomiDolby-aospa" />
 
  <!-- Datura -->
  <project path="prebuilts/calyx/datura" name="prebuilts_calyx_datura" remote="mayuresh-sources" revision="15-qpr2" />
