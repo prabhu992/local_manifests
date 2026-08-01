@@ -36,7 +36,7 @@
  <project path="vendor/xiaomi/stone" name="vendor_xiaomi_stone" remote="mayuresh" revision="16.2" />
 	
  <!-- Datura -->
-	 <project path="prebuilts/calyx/datura" name="prebuilts_calyx_datura" remote="mayuresh-sources" revision="15-qpr2" />
+ <project path="prebuilts/calyx/datura" name="prebuilts_calyx_datura" remote="mayuresh-sources" revision="15-qpr2" />
 	
  <!-- Viper -->
  <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="mayuresh-sources" revision="v4a" />
