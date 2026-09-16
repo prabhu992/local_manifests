@@ -23,6 +23,9 @@
    <remote name="mayuresh-sources"
            fetch="https://github.com/mayuresh-sources"
 	   clone-depth="1" />
+   <remote name="prabhu"
+           fetch="https://github.com/prabhu992"
+    clone-depth="1" />
 
  <!-- Tree -->
  <project path="device/xiaomi/stone" name="device_xiaomi_stone_new" remote="mayuresh" revision="lineage-23.2" />
