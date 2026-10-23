@@ -51,9 +51,6 @@
  <!-- Dolby -->
  <project path="hardware/dolby" name="hardware_dolby" remote="mayuresh-sources" revision="sony-A17" />
 
- <!-- FaceUnlock -->
- <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="pixelos" revision="seventeen" />
-
  <!-- Keys -->
  <project path="vendor/lineage-priv/keys" name="vendor_lineage-priv_keys" remote="mayuresh" revision="17" />
 
